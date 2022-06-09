@@ -1,0 +1,30 @@
+routeParse.py
+routeParseUsadas.py
+interfaces.csv
+libres_12_16-6.xls
+libres_24_9_2020.xls
+libres.xls
+libres12.xls
+Listado IP asignado a I+D.xlsx
+listappend.py
+Network_Devices.csv
+Network_Devices.ipynb
+network_devices.py
+Network_Devices.xls
+porbit.png
+rai_scripter.ipynb
+ruta12.csv
+rutas.csv
+rutas.xls
+rutas12.csv
+scp_copy.py
+shell.py
+ssh_ls.py
+unused.py
+utilizadas.csv
+worker.py
+.ipynb_checkpoints/Mantenimiento de IPs Publicas RAI-checkpoint.ipynb
+.ipynb_checkpoints/rai_scripter-checkpoint.ipynb
+.vscode/settings.json
+__pycache__/shell.cpython-37.pyc
+__pycache__/shell.cpython-38.pyc
